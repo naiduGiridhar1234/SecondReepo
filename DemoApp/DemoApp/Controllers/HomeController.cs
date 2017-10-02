@@ -11,6 +11,7 @@ namespace DemoApp.Controllers
         public ActionResult Index()
         {
            var varible="First commit in git through controller";
+            var varb1 = "First Commit in vs throguhcontroller";
             return View();
         }
 

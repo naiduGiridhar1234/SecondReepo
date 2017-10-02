@@ -10,6 +10,7 @@ namespace DemoApp.Controllers
     {
         public ActionResult Index()
         {
+           var varible="First commit in git through controller";
             return View();
         }
 

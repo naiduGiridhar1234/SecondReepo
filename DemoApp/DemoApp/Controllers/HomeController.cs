@@ -12,6 +12,7 @@ namespace DemoApp.Controllers
         {
            var varible="First commit in git through controller";
             var varb1 = "First Commit in vs ";
+            var adjbsd="night";
             return View();
         }
 
